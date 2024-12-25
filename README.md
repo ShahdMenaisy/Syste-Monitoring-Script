@@ -1,6 +1,3 @@
-# Syste-Monitoring-Script
-Absolutely! Here's a professional README file for your system monitoring script:
-
 ---
 
 # System Monitoring Script
